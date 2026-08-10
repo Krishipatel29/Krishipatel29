@@ -16,9 +16,9 @@ Hi! I'm Krishi, an MCA student from Gujarat.
 
 - 🎓 Currently pursuing MCA
 - ☕ Working on **Java + DSA**
-- 🧠 Solving LeetCode problems and learning common DSA patterns
+- 🧠 Solving LeetCode problems and learning DSA patterns
 - 🌐 Learning and building with **Full-Stack Web Development**
-- 💻 Trying to turn what I learn into small projects instead of just watching tutorials
+- 💻 Learning by building small projects
 - 🎯 Looking for a **6-month software development internship**
 
 ---
@@ -39,16 +39,13 @@ Hi! I'm Krishi, an MCA student from Gujarat.
 
 ## 🧠 DSA
 
-I'm currently doing DSA in Java and focusing more on **understanding the pattern behind a problem** rather than memorizing code.
-
-Some of the patterns/topics I'm working on:
+Currently learning DSA in Java and focusing on **understanding the logic and pattern behind each problem**.
 
 - Two Pointers
 - Fast & Slow Pointers
 - Arrays & Strings
 - Linked Lists
 - Sliding Window
-- More to come 🚀
 
 ### 📚 Practice
 
@@ -58,12 +55,10 @@ Some of the patterns/topics I'm working on:
 
 ## 🚀 What I'm Working On
 
-```text
-Java + DSA          → Learning & practicing
-Full-Stack          → Building fundamentals
-Projects            → Learning by doing
-LeetCode            → Solving consistently
-```
+- 🧠 **DSA in Java** — learning patterns and improving problem-solving
+- 🌐 **Full-Stack Development** — strengthening frontend and backend fundamentals
+- 💻 **Projects** — building while I learn
+- 🔥 **LeetCode** — solving problems consistently
 
 ---
 
@@ -82,27 +77,6 @@ LeetCode            → Solving consistently
 <a href="mailto:krishipatel1104@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishipatel29&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishipatel29&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Krishipatel29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
