@@ -58,7 +58,7 @@ Currently focusing on **DSA in Java** and learning to recognize reusable problem
 
 ### 📚 My DSA Work
 
-🔹 **LeetCode Solutions** — practicing interview-style problems consistently.
+🔹 **[LeetCode Solutions](https://github.com/Krishipatel29/Leetcode-Solutions)** — practicing interview-style problems consistently.
 
 ---
 
@@ -70,6 +70,26 @@ Full-Stack          ███████░░░  Building Fundamentals
 Projects            █████░░░░░  Growing
 Problem Solving     ████████░░  Improving Daily
 ```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/patelkrishii/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Krishipatel29" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:krishipatel1104@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
 
 ---
 
@@ -101,18 +121,6 @@ Problem Solving     ████████░░  Improving Daily
 - [ ] Build solid Full-Stack projects
 - [ ] Complete a 6-month software development internship
 - [ ] Keep improving every single day 💪
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning, building and connecting with fellow developers.
-
-<div align="center">
-
-⭐ **If you find something useful here, feel free to explore my repositories!**
-
-</div>
 
 ---
 
