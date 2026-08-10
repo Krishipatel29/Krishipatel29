@@ -58,8 +58,6 @@ Currently focusing on **DSA in Java** and learning to recognize reusable problem
 
 ### 📚 My DSA Work
 
-🔹 **[Babua DSA Patterns Course](https://github.com/Krishipatel29/babua-dsa-patterns-course)** — notes, solutions and progress from the DSA patterns journey.
-
 🔹 **LeetCode Solutions** — practicing interview-style problems consistently.
 
 ---
