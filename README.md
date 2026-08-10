@@ -55,10 +55,9 @@ Currently learning DSA in Java and focusing on **understanding the logic and pat
 
 ## 🚀 What I'm Working On
 
-- 🧠 **DSA in Java** — learning patterns and improving problem-solving
-- 🌐 **Full-Stack Development** — strengthening frontend and backend fundamentals
-- 💻 **Projects** — building while I learn
-- 🔥 **LeetCode** — solving problems consistently
+<div align="center">
+  <img src="./assets/what-im-working-on.svg" alt="What I'm Working On" width="100%" />
+</div>
 
 ---
 
