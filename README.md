@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Krishi Patel
 
-### 💻 MCA Student • Java & DSA Learner • Full-Stack Development
+### MCA Student | Java & DSA | Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Learning+DSA+with+Java+%F0%9F%A7%A0;Building+Full-Stack+Projects+%F0%9F%9A%80;Solving+Problems+One+Pattern+at+a+Time+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Learning+DSA+with+Java+%F0%9F%A7%A0;Building+Full-Stack+Projects+%F0%9F%9A%80;One+problem+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -12,30 +12,24 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 MCA student
-- ☕ Learning **Java** and strengthening my **DSA fundamentals**
-- 🧠 Practicing coding problems using **DSA patterns** and **LeetCode**
-- 🌐 Learning **Full-Stack Web Development**
-- 🚀 Building my skills through hands-on projects and consistent practice
-- 🎯 Preparing for a **6-month software development internship**
+Hi! I'm Krishi, an MCA student from Gujarat.
+
+- 🎓 Currently pursuing MCA
+- ☕ Working on **Java + DSA**
+- 🧠 Solving LeetCode problems and learning common DSA patterns
+- 🌐 Learning and building with **Full-Stack Web Development**
+- 💻 Trying to turn what I learn into small projects instead of just watching tutorials
+- 🎯 Looking for a **6-month software development internship**
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Web
+## 🛠️ What I'm Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql" />
 </p>
 
-### ⚛️ Development & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
-</p>
-
-### 🔧 Tools
+### 🔧 Tools I Use
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -43,32 +37,32 @@
 
 ---
 
-## 🧠 DSA Journey
+## 🧠 DSA
 
-Currently focusing on **DSA in Java** and learning to recognize reusable problem-solving patterns instead of memorizing solutions.
+I'm currently doing DSA in Java and focusing more on **understanding the pattern behind a problem** rather than memorizing code.
 
-📌 Patterns I'm working through:
+Some of the patterns/topics I'm working on:
 
 - Two Pointers
 - Fast & Slow Pointers
 - Arrays & Strings
 - Linked Lists
 - Sliding Window
-- More patterns coming soon 🚀
+- More to come 🚀
 
-### 📚 My DSA Work
+### 📚 Practice
 
-🔹 **[LeetCode Solutions](https://github.com/Krishipatel29/Leetcode-Solutions)** — practicing interview-style problems consistently.
+🔹 **[LeetCode Solutions](https://github.com/Krishipatel29/Leetcode-Solutions)**
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
 ```text
-DSA with Java       █████████░  Learning & Practicing
-Full-Stack          ███████░░░  Building Fundamentals
-Projects            █████░░░░░  Growing
-Problem Solving     ████████░░  Improving Daily
+Java + DSA          → Learning & practicing
+Full-Stack          → Building fundamentals
+Projects            → Learning by doing
+LeetCode            → Solving consistently
 ```
 
 ---
@@ -93,12 +87,12 @@ Problem Solving     ████████░░  Improving Daily
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishipatel29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishipatel29&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krishipatel29&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishipatel29&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 
@@ -108,7 +102,7 @@ Problem Solving     ████████░░  Improving Daily
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Krishipatel29&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Krishipatel29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -116,16 +110,16 @@ Problem Solving     ████████░░  Improving Daily
 
 ## 🎯 2026 Goals
 
-- [ ] Build strong DSA fundamentals in Java
+- [ ] Get stronger at DSA in Java
 - [ ] Solve more LeetCode problems
-- [ ] Build solid Full-Stack projects
-- [ ] Complete a 6-month software development internship
-- [ ] Keep improving every single day 💪
+- [ ] Build a few good Full-Stack projects
+- [ ] Get a 6-month software development internship
+- [ ] Keep improving step by step 💪
 
 ---
 
 <div align="center">
 
-### 💙 Keep Learning. Keep Building. Keep Solving.
+### 💙 Keep Learning • Keep Building • Keep Solving
 
 </div>
